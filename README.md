@@ -4,8 +4,8 @@
 
 ## Демо
 
-- Страница: https://USERNAME.github.io/teaboom-product-card/
-- Репозиторий: https://github.com/USERNAME/teaboom-product-card
+- Страница: https://Nikolay4709.github.io/teaboom-product-card/
+- Репозиторий: https://github.com/Nikolay4709/teaboom-product-card
 
 ## Стек
 
