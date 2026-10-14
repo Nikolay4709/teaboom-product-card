@@ -169,11 +169,14 @@
   }
 
   &__status {
-    min-height: 1.5em;
     margin-top: -8px;
     font-size: 14px;
     font-weight: 600;
     color: var(--color-success);
+
+    &:empty {
+      display: none;
+    }
   }
 
   &__about {
